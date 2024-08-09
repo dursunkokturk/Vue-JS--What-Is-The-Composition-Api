@@ -1,0 +1,15 @@
+Vue CLI Icin Destek Alinacak Link
+https://cli.vuejs.org/
+
+Routing Kurulum icin proje klasoru icinde asagidaki kod satiri terminal ekraninda calistirilir.
+vue create composition
+
+Proje klasoru icinde vue create (Proje Adi)
+Seklinde kod satiri olusturulacak
+
+Gelen soruda Please Pick A Preset sorusunda Default Vue3 seciyoruz
+
+Bu adimlardan sonra kurulum islemi baslayacak.
+
+Projeyi Calistirmak Icin
+Proje klasoru icinde npm run serve komutunu kullaniyoruz
